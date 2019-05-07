@@ -124,3 +124,14 @@ hs_err_pid*
 .nfs*
 
 # End of https://www.gitignore.io/api/java,linux,intellij
+
+
+
+#my own ignores
+.idea
+.idea/
+
+*.iml
+
+Myfile.txt
+
